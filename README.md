@@ -35,6 +35,14 @@ Install langchain==0.0.284, SpeechRecognition==3.10.4, pyttsx3==2.19 libraries w
   pip install langchain==0.0.284 SpeechRecognition==3.10.4 pyttsx3==2.91 
 ```
 
+## Getting API-KEY from Google
+
+link: https://makersuite.google.com/app/apikey
+
+https://github.com/user-attachments/assets/2def3566-dc6d-4075-ac17-9926a6a3c497
+
+
+
 ## Screenshots
 ![One](https://github.com/user-attachments/assets/9a62fdee-9f5c-442e-97b9-ea10f4bc1f7b)
 
